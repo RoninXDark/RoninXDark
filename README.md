@@ -1,52 +1,67 @@
 # Stanislav Mykhailytskyi
 
-**Python Data, AI & Automation Developer** based in Lublin, Poland.
+**Python Developer | Machine Learning & Deep Learning**
 
-I build practical software around business data: analytics tools, automated
-reports, AI-assisted workflows, Telegram bots, and computer vision prototypes.
-I am currently studying Artificial Intelligence in Business at Lublin
-University of Technology.
+I build Python software for working with data—from cleaning and analysis to
+forecasting, model evaluation, APIs, and interactive applications.
+
+My projects include financial analytics software, an inventory planning
+platform, sales forecasting, and a custom computer vision proof of concept.
+I also work on academic neural network experiments in classification and
+regularization.
+
+Based in Lublin, Poland. Studying Artificial Intelligence in Business at
+Lublin University of Technology.
 
 [Portfolio](https://roninxdark.github.io/portfolio/) |
-[Credly](https://www.credly.com/users/stanislav-mykhailytskyi/badges#credly) |
 [Upwork](https://www.upwork.com/freelancers/~01a8f8f46065f65706) |
+[Credly](https://www.credly.com/users/stanislav-mykhailytskyi/badges#credly) |
 [Email](mailto:stanislavmihajlickij@gmail.com)
 
-## Featured Projects
+## Selected Projects
 
-| Project | What it demonstrates |
-|---|---|
-| [MBS Analytics Tool](https://github.com/RoninXDark/MBS-Analytics-Tool) | Work-in-progress Python/Tkinter desktop application for Bloomberg-style MBS data, batch chart generation, spread analysis, residuals, and Excel reporting. |
-| [InsightPilot AI](https://github.com/RoninXDark/InsightPilot-AI) | Business and sales analysis with deterministic data processing, Gemini-powered structured recommendations, CLI, and Streamlit dashboard modes. |
-| [Ukrainian AI News Bot](https://github.com/RoninXDark/ukrainian-ai-news-telegram-bot) | Automated Ukrainian morning digest built with Groq, Telegram Bot API, RSS/search collection, and scheduled GitHub Actions. |
-| [CAA YOLOv8 Segmentation POC](https://github.com/RoninXDark/caa-yolo-segmentation-poc) | Computer vision experiment using manually annotated CVAT polygon masks, custom YOLOv8 training, metrics, and prediction visuals. |
-| [GenAI RAG & Agent Labs](https://github.com/RoninXDark/ibm-genai-rag-agents-labs) | Portfolio labs covering LlamaIndex RAG, ReAct tool agents, Docling, multimodal DRAG, and IterDRAG workflows. |
-| [Solana Memecoin Simulator](https://github.com/RoninXDark/Solana-Memecoin-Simulator) | Paper-trading terminal that demonstrates frontend state management, market simulation, and product-oriented interface design. |
+| Project | Problem and implementation |
+| --- | --- |
+| [MBS Analytics Tool](https://github.com/RoninXDark/MBS-Analytics-Tool) | Python desktop and CLI tool for Bloomberg-style financial data: normalization, batch charts, spread and residual analysis, ranked rich/cheap scans, and Excel reports. |
+| [DemandPilot](https://github.com/RoninXDark/demandpilot) | Inventory planning portfolio application with demand forecasting, holdout-based baseline selection, MAE/WAPE reporting, stock-risk analysis, scenario comparison, and a FastAPI/React interface. |
+| [Sales Performance Analytics](https://github.com/RoninXDark/Sales-Analysis-AI) | Streamlit dashboard for CSV sales data, KPI tracking, anomaly flags, automated reports, and a linear forecasting baseline with exposed evaluation metrics. |
+| [YOLOv8 Segmentation POC](https://github.com/RoninXDark/caa-yolo-segmentation-poc) | Small-dataset computer vision experiment: CVAT polygon annotation, COCO-to-YOLO preparation, local segmentation training, and visual evaluation. A feasibility study with documented limitations. |
 
-## Additional Projects
+## What I Work On
 
-- [Sales Performance Analytics](https://github.com/RoninXDark/Sales-Analysis-AI):
-  interactive KPI dashboard, product analysis, anomaly flags, and a transparent
-  revenue forecasting baseline.
-- [Crypto Price Tracker Bot](https://github.com/RoninXDark/CryptoPriceTracker-Bot):
-  asynchronous Aiogram bot with CoinGecko integration, environment-based
-  secrets, error handling, tests, and CI.
-- [IBM AI Portfolio Projects](https://github.com/RoninXDark/ibm-ai-portfolio-projects):
-  four reproducible notebooks covering forecasting, summarization, and RAG.
+- **Python development:** analytical tools, data processing, desktop applications, and REST APIs.
+- **Machine learning:** classification, regression, baseline forecasting, preprocessing, and model evaluation.
+- **Neural networks:** academic experiments with TensorFlow/Keras and PyTorch, model comparison, and regularization.
+- **Computer vision:** custom dataset preparation, annotation workflows, and YOLO segmentation prototypes.
+- **Usable deliverables:** notebooks and scripts that can become dashboards, APIs, or desktop tools.
 
-## Core Stack
+## Technical Stack
 
-`Python` `pandas` `NumPy` `Streamlit` `Tkinter` `FastAPI` `PostgreSQL`
-`scikit-learn` `matplotlib` `Plotly` `LangChain` `LlamaIndex` `RAG`
-`YOLOv8` `CVAT` `Telegram Bot API` `GitHub Actions` `Docker`
+| Area | Tools |
+| --- | --- |
+| Data and numerical computing | Python, pandas, NumPy, scikit-learn |
+| Neural networks and computer vision | TensorFlow/Keras, PyTorch, Ultralytics YOLO, CVAT |
+| Visualization and interfaces | matplotlib, seaborn, Plotly, Streamlit, Tkinter |
+| Applications and delivery | FastAPI, SQL, Git, Docker, pytest, GitHub Actions |
 
 ## Current Focus
 
-- Completing the MBS Analytics Tool as a polished business application
-- Building reliable data-analysis and reporting workflows
-- Applying RAG and AI agents to document-heavy business tasks
-- Improving test coverage, CI, documentation, and reproducibility
+- Building and evaluating ML and neural network models.
+- Improving forecasting workflows and their validation.
+- Developing computer vision experiments with clear dataset and evaluation notes.
+- Turning data experiments into practical Python applications.
 
-## Open To
+## More Python Work
 
-Junior Python, data analytics, AI automation, and freelance reporting projects.
+- [Crypto Price Tracker Bot](https://github.com/RoninXDark/CryptoPriceTracker-Bot):
+  asynchronous Aiogram application with CoinGecko integration, input validation,
+  error handling, tests, and CI.
+- [Solana Memecoin Simulator](https://github.com/RoninXDark/Solana-Memecoin-Simulator):
+  paper-trading terminal with a React interface and Python/FastAPI backend.
+
+## Open to Collaboration
+
+Python development, data analysis, ML prototypes, forecasting tools, and
+computer vision proof-of-concept projects.
+
+For freelance work, contact me through [Upwork](https://www.upwork.com/freelancers/~01a8f8f46065f65706).
